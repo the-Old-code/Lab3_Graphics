@@ -1,0 +1,14 @@
+﻿  camera.cpp
+  main.cpp
+D:\labs\Graphics\lab3.14\main.cpp(95,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  math_3d.cpp
+D:\labs\Graphics\lab3.14\math_3d.cpp(37,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(37,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(38,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(38,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(39,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(39,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.14\math_3d.cpp(87,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  pipeline.cpp
+  Generating Code...
+  Lab3.14.vcxproj -> D:\labs\Graphics\lab3.14\Lab3.14\Debug\Lab3.14.exe

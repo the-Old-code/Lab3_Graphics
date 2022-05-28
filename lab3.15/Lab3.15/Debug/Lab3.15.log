@@ -1,0 +1,21 @@
+﻿  camera.cpp
+D:\labs\Graphics\lab3.15\camera.cpp(46,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\camera.cpp(50,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\camera.cpp(57,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\camera.cpp(61,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\camera.cpp(65,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\labs\Graphics\lab3.15\main.cpp(111,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  math_3d.cpp
+D:\labs\Graphics\lab3.15\math_3d.cpp(27,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(28,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(58,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(58,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(59,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(59,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(60,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(60,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab3.15\math_3d.cpp(109,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  pipeline.cpp
+  Generating Code...
+  Lab3.15.vcxproj -> D:\labs\Graphics\lab3.15\Lab3.15\Debug\Lab3.15.exe

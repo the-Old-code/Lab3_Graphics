@@ -1,0 +1,17 @@
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\Lab3.20.vcxproj.CopyComplete
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\Lab3.20.exe
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\freeglutd.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\glew32d.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\graphicsmagick.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\zlibd1.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\bz2d.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\jpeg62.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\libpng16d.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\tiffd.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\liblzma.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\freetyped.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\brotlidec.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\brotlicommon.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\webpmux.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\webp.dll
+D:\labs\Graphics\lab3.20\Lab3.20\Debug\webpdecoder.dll

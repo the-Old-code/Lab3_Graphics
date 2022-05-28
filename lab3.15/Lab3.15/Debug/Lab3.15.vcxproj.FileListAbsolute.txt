@@ -1,0 +1,4 @@
+D:\labs\Graphics\lab3.15\Lab3.15\Debug\Lab3.15.vcxproj.CopyComplete
+D:\labs\Graphics\lab3.15\Lab3.15\Debug\Lab3.15.exe
+D:\labs\Graphics\lab3.15\Lab3.15\Debug\freeglutd.dll
+D:\labs\Graphics\lab3.15\Lab3.15\Debug\glew32d.dll
